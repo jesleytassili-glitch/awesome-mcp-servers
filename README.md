@@ -530,3 +530,5 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+
+- [B2B Quant & Regulatory Compliance Suite](https://github.com/jesleytassili-glitch/b2b-quant-mcp-n8n-suite) - 25 stateless B2B MCP servers for SEC EDGAR, SAM.gov GovCon, GLEIF LEI KYB, ClinicalTrials.gov, CISA KEV, ICANN RDAP, EU VIES VAT, and Brazil Central Bank/Tax compliance.
